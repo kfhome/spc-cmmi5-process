@@ -51,7 +51,7 @@ spc-cmmi5-process/
 Windows 示例（Git Bash）：
 
 ```bash
-git clone <本仓库地址>.git
+git clone https://github.com/kfhome/spc-cmmi5-process.git
 cp -r spc-cmmi5-process ~/.agents/skills/    # Kimi Code
 cp -r spc-cmmi5-process ~/.claude/skills/    # Claude Code
 ```
