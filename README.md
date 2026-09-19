@@ -76,6 +76,12 @@ cp -r spc-cmmi5-process ~/.claude/skills/    # Claude Code
 
 详见 `SKILL.md` 与 `references/`。
 
+## 联系方式
+
+- 微信：**CNN_AI**
+
+欢迎交流软件过程改进与 AI 智能体协同工程的实践经验。
+
 ## 许可证
 
 [MIT](LICENSE)
