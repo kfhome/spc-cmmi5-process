@@ -79,6 +79,7 @@ cp -r spc-cmmi5-process ~/.claude/skills/    # Claude Code
 ## 联系方式
 
 - 微信：**CNN_AI**
+- QQ 群：**544813193**
 
 欢迎交流软件过程改进与 AI 智能体协同工程的实践经验。
 
